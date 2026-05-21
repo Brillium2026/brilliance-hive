@@ -1,0 +1,18 @@
+brilliance-hive/
+├── backend/
+│   ├── app.py
+│   ├── hive.py
+│   ├── requirements.txt
+│   └── README.md
+├── frontend/
+│   ├── index.html
+│   ├── package.json
+│   ├── vite.config.js
+│   ├── tsconfig.json
+│   └── src/
+│       ├── main.tsx
+│       ├── App.tsx
+│       └── components/
+│           └── BrillianceManifold.tsx
+├── README.md
+└── render.yaml
